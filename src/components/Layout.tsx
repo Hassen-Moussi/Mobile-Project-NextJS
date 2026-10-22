@@ -199,13 +199,13 @@ export default function Layout({ children }: LayoutProps) {
                               { href: "/faq", label: "FAQ", icon: HelpCircle },
                               { href: "/reviews", label: "Leave a review", icon: Star },
                               {
-                                href: "https://github.com/FelixRobb/ride-share-app",
+                                href: "https://github.com/Hassen-Moussi/RideShareEsprit",
                                 label: "GitHub",
                                 icon: Code,
                               },
                               { href: "/bug-report", label: "Bug Reports", icon: HelpCircle },
                               {
-                                href: "mailto:rideshareapp.mail@gmail.com",
+                                href: "mailto:hassen.tn.moussi@gmail.com",
                                 label: "Contact Us",
                                 icon: Mail,
                               },
@@ -257,13 +257,13 @@ export default function Layout({ children }: LayoutProps) {
                                 { href: "/faq", label: "FAQ", icon: HelpCircle },
                                 { href: "/reviews", label: "Leave a review", icon: Star },
                                 {
-                                  href: "https://github.com/FelixRobb/ride-share-app",
+                                  href: "https://github.com/Hassen-Moussi/RideShareEsprit",
                                   label: "GitHub",
                                   icon: Code,
                                 },
                                 { href: "/bug-report", label: "Bug Reports", icon: HelpCircle },
                                 {
-                                  href: "mailto:rideshareapp.mail@gmail.com",
+                                  href: "mailto:hassen.tn.moussi@gmail.com",
                                   label: "Contact Us",
                                   icon: Mail,
                                 },

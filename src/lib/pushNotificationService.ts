@@ -8,7 +8,7 @@ const vapidKeys = {
 };
 
 setVapidDetails(
-  "mailto:rideshareapp.mail@gmail.com",
+  "mailto:hassen.tn.moussi@gmail.com",
   vapidKeys.publicKey as string,
   vapidKeys.privateKey as string
 );

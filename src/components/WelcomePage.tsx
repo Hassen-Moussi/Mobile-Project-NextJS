@@ -633,12 +633,12 @@ export default function WelcomePage() {
                         { href: "/about", label: "Learn more", icon: Info },
                         { href: "/faq", label: "FAQ", icon: HelpCircle },
                         {
-                          href: "https://github.com/FelixRobb/ride-share-app",
+                          href: "https://github.com/Hassen-Moussi/RideShareEsprit",
                           label: "GitHub",
                           icon: Code,
                         },
                         {
-                          href: "mailto:rideshareapp.mail@gmail.com",
+                          href: "mailto:hassen.tn.moussi@gmail.com",
                           label: "Contact Us",
                           icon: Mail,
                         },
@@ -686,12 +686,12 @@ export default function WelcomePage() {
                           { href: "/about", label: "Learn more", icon: Info },
                           { href: "/faq", label: "FAQ", icon: HelpCircle },
                           {
-                            href: "https://github.com/FelixRobb/ride-share-app",
+                            href: "https://github.com/Hassen-Moussi/RideShareEsprit",
                             label: "GitHub",
                             icon: Code,
                           },
                           {
-                            href: "mailto:rideshareapp.mail@gmail.com",
+                            href: "mailto:hassen.tn.moussi@gmail.com",
                             label: "Contact Us",
                             icon: Mail,
                           },
