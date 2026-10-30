@@ -604,8 +604,8 @@ export default function WelcomePage() {
               <a className="cursor-default" href="/admin">
                 &copy;
               </a>{" "}
-              {new Date().getFullYear()} RideShare by Félix Robb.
-              <span className="text-muted-foreground ml-1">All rights reserved.</span>
+              {new Date().getFullYear()} RideShare.
+              <span className="text-muted-foreground ml-1">An ESPRIT academic project.</span>
             </p>
 
             <div className="mt-4 md:mt-0">

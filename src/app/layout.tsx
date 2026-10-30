@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/sonner";
 
 import { Providers } from "./Providers";
 
-const siteUrl = process.env.NEXT_PUBLIC_APP_URL || "https://rideshareappweb.netlify.app"; // Fallback URL
+const siteUrl = process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
 const ogImageUrl = `${siteUrl}/og-image.png`;
 const twitterImageUrl = `${siteUrl}/twitter-image.png`;
 
@@ -40,9 +40,6 @@ export const metadata = {
     images: [twitterImageUrl],
   },
   metadataBase: new URL(siteUrl),
-  verification: {
-    google: "W9GFmL7Uxf4V2KqhH-IFNgbJHdrHziVtC95mXXGPwI0",
-  },
 };
 
 export const viewport = {

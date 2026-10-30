@@ -330,7 +330,7 @@ export function getWelcomeEmailContent(name: string): string {
             <p>Questions? Contact our support team at <a
                     href="mailto:${process.env.GMAIL_USER}">${process.env.GMAIL_USER}</a>
             </p>
-            <p>© ${new Date().getFullYear()} RideShare. All rights reserved.</p>
+            <p>© ${new Date().getFullYear()} RideShare. An ESPRIT academic project.</p>
             <p>You're receiving this email because you signed up for RideShare.</p>
         </div>
     </div>
@@ -631,7 +631,7 @@ export function getVerificationEmailContent(name: string, verificationUrl: strin
       </div>
     </div>
     <div class="footer">
-      <p>© ${new Date().getFullYear()} RideShare. All rights reserved.</p>
+      <p>© ${new Date().getFullYear()} RideShare. An ESPRIT academic project.</p>
       <p>This is an automated verification email. Please do not reply directly to this email.</p>
     </div>
   </div>
@@ -943,7 +943,7 @@ export function getResetPasswordEmailContent(resetUrl: string): string {
     </div>
     <div class="footer">
       <p>Need help? Our support team is always here to assist you.</p>
-      <p>© ${new Date().getFullYear()} RideShare. All rights reserved.</p>
+      <p>© ${new Date().getFullYear()} RideShare. An ESPRIT academic project.</p>
       <p>This is an automated message. Please do not reply directly to this email.</p>
     </div>
   </div>
@@ -1260,7 +1260,7 @@ export function getEmailChangeNotificationContent(name: string, newEmail: string
     <div class="footer">
       <p>Need help? Contact our support team at <a href="mailto:${process.env.GMAIL_USER}">${process.env.GMAIL_USER}</a>
       </p>
-      <p>© ${new Date().getFullYear()} RideShare. All rights reserved.</p>
+      <p>© ${new Date().getFullYear()} RideShare. An ESPRIT academic project.</p>
       <p>This is an automated security notification. Please do not reply to this email.</p>
     </div>
   </div>
@@ -1590,7 +1590,7 @@ export function getPasswordChangeNotificationContent(name: string): string {
     <div class="footer">
       <p>Need help? Contact our support team at <a href="mailto:${process.env.GMAIL_USER}">${process.env.GMAIL_USER}</a>
       </p>
-      <p>© ${new Date().getFullYear()} RideShare. All rights reserved.</p>
+      <p>© ${new Date().getFullYear()} RideShare. An ESPRIT academic project.</p>
       <p>This is an automated security notification. Please do not reply to this email.</p>
     </div>
   </div>

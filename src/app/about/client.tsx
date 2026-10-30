@@ -75,16 +75,10 @@ export default function AboutClient() {
             </ul>
           </section>
           <section>
-            <h2 className="text-2xl font-semibold mb-3">Our Team</h2>
-            <p className="mb-4">
-              RideShare was founded by a group of passionate individuals who believe in the power of
-              community and sustainable transportation. Our diverse team brings together expertise
-              in technology, urban planning, and community building.
-            </p>
+            <h2 className="text-2xl font-semibold mb-3">Academic project</h2>
             <p>
-              Led by our CEO, Félix Robb, we&apos;re committed to creating a platform that not only
-              simplifies travel but also strengthens social connections and contributes to a greener
-              future.
+              RideShare is an academic project developed at ESPRIT. It is built for learning and
+              demonstration, and it is not a commercial service.
             </p>
           </section>
           <section>

@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://rideshareappweb.netlify.app/sitemap.xml
+Sitemap: /sitemap.xml
